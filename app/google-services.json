@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364510561106",
+    "project_id": "cloudbasedapp-b8306",
+    "storage_bucket": "cloudbasedapp-b8306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364510561106:android:9007dcec283a4aa321708b",
+        "android_client_info": {
+          "package_name": "com.example.cloudbasedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364510561106-3k3q5dsmrnt3sb84k763a8sqkt6lrsmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbiTMfIzeIaqPjZHAlhd-9xOpBe8aWPWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364510561106-3k3q5dsmrnt3sb84k763a8sqkt6lrsmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
